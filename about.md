@@ -1,0 +1,6 @@
+
+---
+layout: default
+title: about
+---
+Hi there, I'm Vijay Balasubramanian. I work as a Sr Middleware Consultant @ Red Hat. I am open source enthusiast, interested in Java, Spring, Containers, Middleware Intgration solutions, BPM, DIY, Biking & Organic Gardening</h1>
