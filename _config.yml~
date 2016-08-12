@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
@@ -14,9 +15,9 @@ markdown: kramdown
 title : Jekyll Bootstrap-3
 tagline: Site Tagline
 author :
-  name : Vijay Balasubramanian
-  email : vbalasub.seven@gmail.com
-  github : vbalasub
+  name : Name Lastname
+  email : blah@email.test
+  github : username
   twitter : username
   feedburner : feedname
 
@@ -134,4 +135,7 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-
+=======
+name: Vijay Bala
+markdown: kramdown
+>>>>>>> 9e0613bb4e62d7c4f333ae366813eb369c0c7ca3

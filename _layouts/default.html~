@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 ---
-theme : bootstrap 3
+theme :
   name : bootstrap
 ---
 {% include JB/setup %}

@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-
+<<<<<<< HEAD
 {% include JB/setup %}
 {% include themes/bootstrap/post.html %}
-
+=======
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
   {{ content }}
 </div>
-
+>>>>>>> 9e0613bb4e62d7c4f333ae366813eb369c0c7ca3
