@@ -1,4 +1,4 @@
 theme :
-name : bootstrap
+  name : bootstrap
 tagline: PAGE TAGLINE
 title: PAGE TITLE
