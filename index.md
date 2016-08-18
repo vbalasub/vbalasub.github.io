@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Main
-tagline: 
+title: Vijay Balasubramanian
+tagline: My Stumblings
 ---
 {% include JB/setup %}
 
