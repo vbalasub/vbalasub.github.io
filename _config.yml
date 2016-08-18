@@ -135,7 +135,7 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 
-categories_list:
+categories:
   JBoss:
   DIY:
   Gardening:
